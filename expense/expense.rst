@@ -35,7 +35,7 @@ Don’t forget to set an expense tax on each expense type
 It’s usually a good practice to use a tax that is configured 
 with *Tax Included in Price* (see: :doc:`../accounting/others/taxes/tax_included`).
 That way, employees report expenses with 
-prices including taxes, which is usually the expected behaviour.
+prices including taxes, which is usually the expected behaviour .
 
 .. tip:: 
     The *Sales* app allows you to specify unit of measures for your 
